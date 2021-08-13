@@ -1,6 +1,6 @@
 ##
 
-<b>{ Objective: "<i>Following my dreams all days</i>" } </b>
+<b>{ Objective: "<i>Following my dreams in all days</i>" } </b>
 
 ##
 
