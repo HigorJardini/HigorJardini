@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Project-Test-Irroba&theme=dark&show_owner=true)](https://github.com/Higorjardini/Project-Test-Irroba)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=TIC-Project&theme=dark&show_owner=true)](https://github.com/Higorjardini/TIC-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Automatic-Installation-Script&theme=dark&show_owner=true)](https://github.com/HigorJardini/Automatic-Installation-Script)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Automatic-Installation-Script&theme=dark&show_owner=true)](https://github.com/HigorJardini/Pokedex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Pokedex&show_owner=true)](https://github.com/HigorJardini/Pokedex)
 
 
 ##
