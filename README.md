@@ -6,6 +6,8 @@
 
 <b>{ Title: "My Projects" } </b>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Near-Hackathon-22&theme=dark&show_owner=true)](https://github.com/Higorjardini/Near-Hackathon-22)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Locany&theme=dark&show_owner=true)](https://github.com/Higorjardini/Locany)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Hackathon-2021&theme=dark&show_owner=true)](https://github.com/Higorjardini/Hackathon-2021)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Hackthon-2021-docs&theme=dark&show_owner=true)](https://github.com/Higorjardini/Hackthon-2021-docs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Project-Test-Irroba&theme=dark&show_owner=true)](https://github.com/Higorjardini/Project-Test-Irroba)
