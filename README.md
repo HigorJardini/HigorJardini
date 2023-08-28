@@ -15,7 +15,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Automatic-Installation-Script&theme=dark&show_owner=true)](https://github.com/HigorJardini/Automatic-Installation-Script)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Pokedex&theme=dark&show_owner=true)](https://github.com/HigorJardini/Pokedex)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=FTP-Server&theme=dark&show_owner=true)](https://github.com/HigorJardini/FTP-Server)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HigorJardini&repo=Manhattan-Projectr&theme=dark&show_owner=true)](https://github.com/HigorJardini/Manhattan-Project)
 
 ##
 
