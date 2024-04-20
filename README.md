@@ -1,4 +1,4 @@
-<a href="https://higorjardini.dev/"><img src="https://github.com/HigorJardini/HigorJardini/blob/main/higorjardini.dev.png?raw=true" alt="higorjardini.dev macbook image" min-width="300px" max-width="300px" width="300px" align="right"></a>
+<a target="_blank" href="https://higorjardini.dev/"><img src="https://github.com/HigorJardini/HigorJardini/blob/main/higorjardini.dev.png?raw=true" alt="higorjardini.dev macbook image" min-width="300px" max-width="300px" width="300px" align="right"></a>
 
 ```js
 import { Injectable } from '@higorjardini/common';
