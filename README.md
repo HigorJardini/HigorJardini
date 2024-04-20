@@ -3,7 +3,7 @@
 ```js
 import { Injectable } from '@higorjardini/common';
 import { SoftwareEngineerDto } from './dto/software-enginner.dto';
-import { Developer, DeveloperDocument } from './schemas/software-enginner.schemas';
+import { Developer, DeveloperDocument } from './schemas/sf.schemas';
 import { Model } from 'mongoose';
 import { InjectModel } from '@higorjardini/mongoose';
 
