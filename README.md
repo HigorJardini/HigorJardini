@@ -20,8 +20,8 @@ import (
 // SoftwareEngineer holds my profile info
 type SoftwareEngineer struct {
     Name          string   // Name
-    Backend       bool     // Backend expertise
-    Frontend      bool     // Frontend skills
+    Backend       bool     // Backend technologies and languages
+    Frontend      bool     // Frontend technologies and languages
     PortfolioLink string   // Portfolio link
     Languages     []string // Programming languages
 }
