@@ -23,7 +23,7 @@ type SoftwareEngineer struct {
     Backend       bool     // Backend expertise
     Frontend      bool     // Frontend skills
     PortfolioLink string   // Portfolio link
-    Skills        []string // Technical skills
+    Languages     []string // Programming languages
 }
 
 func main() {
@@ -32,12 +32,12 @@ func main() {
         Backend:       true,
         Frontend:      false,
         PortfolioLink: "https://higorjardini.dev/",
-        Skills:        []string{"Go", "Node.js", "Java", "TypeScript"},
+        Languages:     []string{"Go", "Node.js", "Java", "TypeScript"},
     }
 
     http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
         fmt.Fprintf(w, "Hi, I'm %s!\n", engineer.Name)
-        fmt.Fprintf(w, "Backend development with skills in %v.\n", engineer.Skills)
+        fmt.Fprintf(w, "Backend Languages: %v.\n", engineer.Languages)
         fmt.Fprintf(w, "Visit my portfolio at %s.", engineer.PortfolioLink)
     })
 
