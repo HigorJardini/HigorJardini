@@ -8,38 +8,40 @@
 
 <a target="_blank" href="https://higorjardini.dev/"><img src="https://github.com/HigorJardini/HigorJardini/blob/main/higorjardini.dev.png?raw=true" alt="higorjardini.dev macbook image" min-width="300px" max-width="300px" width="300px" align="right"></a>
 
-```js
+```go
 // Hi, I'm Higor Jardini!
-import { Injectable } from '@github/common';
-import { SoftwareEngineerDto } from './dto/sf.dto';
-import { Developer, DeveloperDocument } from './schemas/dev.schemas';
-import { Model } from 'mongoose';
-import { InjectModel } from '@github/mongoose';
+package main
 
-@Injectable()
-export class SoftwareEngineerService {
-  constructor(
-    @InjectModel(Developer.name)
-    private developerModel: Model<DeveloperDocument>,
-  ) {}
+import (
+    "fmt"
+    "net/http"
+)
 
-  async create({ skills }:  SoftwareEngineerDto) {
-    const aboutMe = await this.findOne();
-    if (!aboutMe) {
-       const AboutMe = {
-          name: "Higor Jardini",
-          backend: true,
-          frontend: null
-          portfolioLink: "https://higorjardini.dev/",
-          skills: skills
-       }
-       return this.developerModel.create({ AboutMe });
+// SoftwareEngineer holds my profile info
+type SoftwareEngineer struct {
+    Name          string   // Name
+    Backend       bool     // Backend expertise
+    Frontend      bool     // Frontend skills
+    PortfolioLink string   // Portfolio link
+    Skills        []string // Technical skills
+}
+
+func main() {
+    engineer := SoftwareEngineer{
+        Name:          "Higor Jardini",
+        Backend:       true,
+        Frontend:      false,
+        PortfolioLink: "https://higorjardini.dev/",
+        Skills:        []string{"Go", "Node.js", "Java", "TypeScript"},
     }
-  }
 
-  async findOne() {
-    return await this.developerModel.find().exec();
-  }
+    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+        fmt.Fprintf(w, "Hi, I'm %s!\n", engineer.Name)
+        fmt.Fprintf(w, "Backend development with skills in %v.\n", engineer.Skills)
+        fmt.Fprintf(w, "Visit my portfolio at %s.", engineer.PortfolioLink)
+    })
+
+    http.ListenAndServe(":8080", nil)
 }
 ```
 
