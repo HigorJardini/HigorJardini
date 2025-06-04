@@ -1,8 +1,8 @@
 <p align="left">
 
-  [![Linkedin: thaianebraga](https://img.shields.io/badge/-higorjardini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorjardini/?locale=en_US)](https://www.linkedin.com/in/higorjardini/?locale=en_US)
-  [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/higor_jardini?style=social)](https://twitter.com/higor_jardini)
-  [![GitHub Thaiane](https://img.shields.io/github/followers/HigorJardini?label=follow&style=social)](https://github.com/HigorJardini)
+  [![Linkedin: higorjardini](https://img.shields.io/badge/-higorjardini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/higorjardini/?locale=en_US)](https://www.linkedin.com/in/higorjardini/?locale=en_US)
+  [![Twitter: higor_jardini](https://img.shields.io/twitter/follow/higor_jardini?style=social)](https://twitter.com/higor_jardini)
+  [![GitHub HigorJardini](https://img.shields.io/github/followers/HigorJardini?label=follow&style=social)](https://github.com/HigorJardini)
 
 </p>
 
